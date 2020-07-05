@@ -1,12 +1,12 @@
 {
-"Version":"3.2",
+"Version":"3.3",
 "Url":"https://github.com/kathawutGT/ktw/raw/master/Ktwvpn.zip" ,
 "Changelog":"
 รายระเอียดการอัพเดตไฟล์อัพเดตเมื่อ28/6/63
 -Dtac 
 
-เพิ่มไฟล์
--SG-AUTO อีก2ไฟล์
+แก้ไขไฟล์ทั้งหมด
+-SG
 
 -ตอนอัพเดทควรมีอินเทอร์เน็ต
 -กดตกลงเพื่ออัพเดต
