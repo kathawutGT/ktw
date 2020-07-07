@@ -1,8 +1,10 @@
 {
-"Version":"3.3",
+"Version":"3.4",
 "Url":"https://github.com/kathawutGT/ktw/raw/master/Ktwvpn.zip" ,
 "Changelog":"
 รายระเอียดการอัพเดตไฟล์อัพเดตเมื่อ28/6/63
+
+รองรับการใช้งาน
 -Dtac 
 
 แก้ไขไฟล์ทั้งหมด
@@ -11,7 +13,7 @@
 -ตอนอัพเดทควรมีอินเทอร์เน็ต
 -กดตกลงเพื่ออัพเดต
 
-By : Kathawut
+By Kathawut
 ",
 
 "latestVersion": "1.0.0",
