@@ -1,24 +1,21 @@
 {
-"Version":"3.9",
-"Url":"https://github.com/kathawutGT/ktw/raw/master/Ktwvpn.zip" ,
+"Version":"4.1",
+"Url":"https://github.com/kathawutGT/chak/raw/master/ch.zip" ,
 "Changelog":"
-รายระเอียดการอัพเดตไฟล์อัพเดตเมื่อ13/7/63
+รายระเอียดการอัพเดตไฟล์อัพเดตเมื่อ27/7/63
 
 รองรับการใช้งาน
--Dtac 
 -True
 
 เซิร์ฟที่มี
--TH
 -SG
--US
 
-Cr. CHAIVPN INTERNET
+#แก้ไขพร็อกซี่ทั้งหมด
+
 
 -ตอนอัพเดทควรมีอินเทอร์เน็ต
 -กดตกลงเพื่ออัพเดต
 
-By Kathawut
 ",
 
 "latestVersion": "1.0.0",
